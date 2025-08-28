@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="Menu"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_food"
+        android:title="Food"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_review"
+        android:title="Review"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_payment"
+        android:title="Payment"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_profile"
+        android:title="Profile"
+        app:showAsAction="never"
+        />
+</menu>

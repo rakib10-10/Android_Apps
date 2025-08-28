@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/Base.Theme.Food_Feedback"
+        >
+
+<!-- Toolbar -->
+<androidx.appcompat.widget.Toolbar
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:title="Rakib Food Cornner"
+    android:titleTextColor="@android:color/white" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Foods"
+        android:textSize="25dp"
+        >
+    </TextView>
+<!-- Food Checkboxes -->
+<CheckBox
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/cbBurger"
+    android:text="Burger" />
+
+<CheckBox
+    android:id="@+id/cbPizza"
+    android:text="Pizza"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    />
+<CheckBox
+    android:id="@+id/cbCoke"
+    android:text="Coke"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    />
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Dining Option"
+        android:textSize="25dp"
+        >
+
+    </TextView>
+<!-- Radio Buttons -->
+<RadioGroup
+    android:id="@+id/deliveryGroup"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <RadioButton
+        android:id="@+id/rbHome"
+        android:text="Home Delivery"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        />
+    <RadioButton
+        android:id="@+id/rbPickup"
+        android:text="Pick-up"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        />
+</RadioGroup>
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Review"
+        android:textSize="25dp"
+        >
+
+    </TextView>
+<!-- Rating Bar -->
+<RatingBar
+    android:layout_gravity="center"
+    android:layout_height="match_parent"
+    android:layout_width="wrap_content"
+    android:id="@+id/ratingBar"
+    android:numStars="5"
+    android:stepSize="1.0" />
+
+<!-- Submit Button -->
+<Button
+    android:layout_gravity="center"
+    android:layout_height="match_parent"
+    android:layout_width="wrap_content"
+    android:id="@+id/btnSubmit"
+    android:text="Submit"
+
+    />
+
+
+</LinearLayout>
