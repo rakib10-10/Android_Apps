@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:transitionGroup="true">
+
+
+
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_ename"
+
+        android:layout_marginTop="46dp"
+        android:hint="Enter Text"
+
+        android:textColor="#1C1D1C"
+        android:textColorHint="#7496CC" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Text to Speech"
+        android:id="@+id/button_login"
+
+        android:layout_marginTop="46dp" />
+
+</LinearLayout>
