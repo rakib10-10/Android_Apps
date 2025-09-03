@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">EnglishNewspaper</string>
+
+    <string-array name="news_titles">
+        <item>Deterioration of law and order increases concern over peaceful democratic transition: SAHR</item>
+        <item>Hasina ‘forced false testimony’ against Sayedee: Witnesses</item>
+        <item>Editors’ Council expresses concerns over three issues</item>
+        <item>Gang-rape threat to DUCSU candidate: DU expels student for 6 months</item>
+        <item>Approver’s testimony July mass killings ordered by Hasina, Asaduzzaman Khan</item>
+        <item>Chief Adviser orders to send Nur abroad for treatment</item>
+        <item>Deterioration of law and order increases concern over peaceful democratic transition: SAHR</item>
+        <item>Is BNP prepared for a new Bangladesh?</item>
+        <item>So, will Aminul contest against Tamim for the position of BCB President?</item>
+        <item>Reforms: When will the police be an institution for the people?</item>
+    </string-array>
+
+    <!-- Subtitles -->
+    <string-array name="news_subtitles">
+        <item>India now allows Bangladesh’s religious minorities to stay without documentation.</item>
+        <item>EC has proposed barring individuals declared fugitives by courts from parliamentary polls.</item>
+        <item>The Editors’ Council raised alarm over mob entering DRU and AI-generated image dispute.</item>
+        <item>Inspector General of Police says 4,000 ASIs will be recruited ahead of national election.</item>
+        <item>DUCSU VP candidate Sk Tasnim Afroz says female candidates face bullying and online harassment.</item>
+        <item>Chief Adviser Professor Yunus orders arrangements to send Nur abroad for advanced treatment following serious injuries.</item>
+        <item>SAHR voices anxiety over worsening law and order and its implications for democratic transition.</item>
+        <item>Opinion piece examines whether BNP is ready for a new chapter in Bangladesh’s politics.</item>
+        <item>Aminul Islam Shamsul Hoque hints he might contest again for BCB President if nominated.</item>
+        <item>Editor Rashed Al Mahmud Titumir reflects on police’s colonial roots and current militarisation.</item>
+    </string-array>
+
+    <!-- Times -->
+    <string-array name="news_times">
+        <item>26 minutes ago</item>
+        <item>15:50</item>
+        <item>16:50</item>
+        <item>13:05</item>
+        <item>15:25</item>
+        <item>04:05</item>
+        <item>16:28</item>
+        <item>01 Sep 2025, 13:51</item>
+        <item>02 Sep 2025, 12:31</item>
+        <item>02 Sep 2025, 02:34</item>
+    </string-array>
+
+    <string-array name="news_fullstories">
+    <item>India now allows Bangladesh’s religious minorities to stay without documentation.
+    The move is seen as part of a broader policy shift to provide humanitarian support.
+    Many rights organisations have welcomed the decision, though concerns remain about
+    long-term integration and social impact.</item>
+
+        <item>The Election Commission has proposed barring individuals declared fugitives by courts
+    from parliamentary polls. The move sparked debate among political analysts, with some
+    saying it strengthens accountability, while others argue it could be misused politically.</item>
+
+        <item>The Editors’ Council raised alarm over incidents where mobs entered the DRU office,
+    and controversy erupted over AI-generated images being used in political campaigns.
+    Journalists demanded greater protection and transparency ahead of the election.</item>
+
+        <item>Inspector General of Police announced recruitment of 4,000 assistant sub-inspectors
+    (ASIs) ahead of the upcoming national election. Officials claim this will help strengthen
+    security, though opposition leaders worry it might be used for political purposes.</item>
+
+        <item>DUCSU VP candidate Sk Tasnim Afroz highlighted the challenges faced by women in
+    politics, including bullying and online harassment. She urged the Election Commission
+    and universities to take stronger measures to ensure safety for female candidates.</item>
+
+        <item>Chief Adviser Professor Muhammad Yunus instructed authorities to make urgent
+    arrangements to send Nur abroad for advanced treatment after he suffered severe injuries.
+    The case has drawn national attention, with widespread calls for justice.</item>
+
+        <item>South Asians for Human Rights (SAHR) voiced concern over the deteriorating law
+    and order situation in Bangladesh, warning that it could jeopardize peaceful democratic
+    transition. They called for urgent government action to ensure safety of communities.</item>
+
+        <item>An opinion column analyzed whether the BNP is prepared for a new chapter in
+    Bangladesh’s politics, highlighting internal divisions, leadership challenges, and the
+    growing demand from grassroots members for reforms before the election.</item>
+
+        <item>Aminul Islam Shamsul Hoque hinted at running again for BCB President if nominated.
+    Cricket insiders suggest that his decision may reshape the board’s leadership dynamics
+    and potentially influence Bangladesh’s cricketing strategy.</item>
+
+        <item>Editor Rashed Al Mahmud Titumir discussed how the police’s colonial roots
+    continue to shape its militarised structure today, calling for urgent reforms to
+    improve accountability, transparency, and trust between citizens and law enforcement.</item>
+    </string-array>
+
+
+</resources>
